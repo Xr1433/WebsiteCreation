@@ -82,7 +82,7 @@ html {
 .header-image1 {
   
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("https://wallpapercave.com/wp/wp3644345.jpg");
+    url("https://th.bing.com/th/id/R.a3443e6af12924fb3d3a1b6be8387f58?rik=dQUS3prQaJxJIw&pid=ImgRaw&r=0");
 
   /* Set a specific height */
   height: 70%;
@@ -144,7 +144,22 @@ html {
 .header-image5 {
  
   background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url("");
+    url("https://th.bing.com/th/id/R.1e2430495764b887e6d87af06f5621ba?rik=h7eTcZgNaPAI0A&pid=ImgRaw&r=0");
+
+  /* Set a specific height */
+  height: 70%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top: 44px;
+}
+.header-image6 {
+ 
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+    url("https://th.bing.com/th/id/R.a7df7411dd2d40e22d181d933b8c7939?rik=LTEoNCaG8gQ6zA&riu=http%3a%2f%2fwww.york.ac.uk%2fmedia%2fstudy%2fcourses%2fundergraduate%2fenvironment%2fenvironmental-geography-hero.jpg&ehk=ix4CYvBe8PDjCXunssoa2H7D0RgM33ZRdTSKt9lGfes%3d&risl=&pid=ImgRaw&r=0");
 
   /* Set a specific height */
   height: 70%;
@@ -171,4 +186,16 @@ html {
   #atmospherelayer {
     color: #009696;
   }
-  
+  #coloredheader {
+    color: #5E9600;
+  }
+  #coloredheader2 {
+    color: #942A2A;
+  }
+  #coloredheader3 {
+    color: #A0AE91;
+  }
+
+  .table {
+    text-align: center;
+  }
